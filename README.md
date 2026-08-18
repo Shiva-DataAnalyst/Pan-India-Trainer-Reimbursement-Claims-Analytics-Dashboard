@@ -21,3 +21,21 @@ The primary objective of this dashboard is to provide management with a centrali
 - How does reimbursement vary month-wise?
 - Which areas require further monitoring?
 - How much amount is exceeding the defined limit?
+
+## 📈 Dashboard KPIs
+
+The dashboard provides important management-level KPIs including:
+
+- Total Claim Entries
+- Total Trainers
+- Total Regions
+- Total Claim Amount
+- Total Approved Amount
+- Approval Percentage
+- Over-Limit Amount
+- Expense Head Analysis
+- Region-wise Approved Amount
+- Month-wise Approved Amount
+- Trainer-wise Approved Amount
+
+- Dashboard Intrection <a href="https://github.com/Shiva-DataAnalyst/Pan-India-Trainer-Reimbursement-Claims-Analytics-Dashboard/blob/main/Dashboard%20Screeshot.png">View Dashboard</a>
