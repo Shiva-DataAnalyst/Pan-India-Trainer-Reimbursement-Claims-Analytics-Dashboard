@@ -107,3 +107,16 @@ The dashboard includes interactive filtering capabilities for:
 
 This allows users to drill down from overall management-level information to specific operational details.
 
+## ⭐ Portfolio Note
+
+This project demonstrates practical experience in transforming operational data into actionable business intelligence using Microsoft Excel.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/shivakashyap-da/
+- Mail Id: kashyapshiva0608@gmail.com
+- Contact: 9540671925
+
+## Author
+
+Shiva Data Analyst
