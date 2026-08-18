@@ -40,6 +40,10 @@ The dashboard provides important management-level KPIs including:
 
 - Dashboard Intrection <a href="https://github.com/Shiva-DataAnalyst/Pan-India-Trainer-Reimbursement-Claims-Analytics-Dashboard/blob/main/Dashboard%20Screeshot.png">View Dashboard</a>
 
+## Dashboard
+<img width="837" height="368" alt="Dashboard Screeshot" src="https://github.com/user-attachments/assets/6f802918-de6e-49d6-8034-5c0228407512" />
+
+
 # 🔍 Key Dashboard Analysis
 ## 1. Region-wise Analysis
 
